@@ -2,7 +2,7 @@
 
 ***
 
-###Tarvitset:
+### Tarvitset:
 
 ..* Inventaariomaatin "kaikki laitteet" välilehden ladattuna .csv muodossa
 ..* puavo laitelistan .csv muodossa
